@@ -1,13 +1,13 @@
-# Foo
+# Sample Markdown
 
 <!-- contents-begin-md -->
 
-Hello world [Test2][test2].
+Hello world [Test][test3].
 
 <!-- contents-end-md -->
 
 <!-- references-begin-md -->
 
-[test2]: http://example.com/
+[test3]: http://example.com/
 
 <!-- references-end-md -->

@@ -1,7 +1,7 @@
 Test ReStructuredText
 =====================
 
-Hello world `Test <test2>`_.
+Hello world `Test <test2_>`__.
 
 .. _test2: http://example.com/
 

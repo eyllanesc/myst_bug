@@ -1,4 +1,4 @@
-sphinx==6.2.1
+sphinx==7.0.0
 myst_parser==1.0.0
 sphinx-autobuild==2021.3.14
 linkify-it-py==2.0.2 

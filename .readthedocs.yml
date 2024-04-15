@@ -7,4 +7,4 @@ python:
   install:
     - requirements: docs/requirements.txt
 build:
-  image: testing
+  os: "ubuntu-22.04"
